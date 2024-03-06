@@ -1,0 +1,6 @@
+{
+    "mongoURI": "mongodb://172.31.254.86:27017/PosDEMODB",
+    "jwtSecret": "ayassecret",
+    "jwtSecretBackOff": "cayon@cloud"
+
+}

@@ -1,0 +1,7 @@
+{
+    "mongoURI": "mongodb://172.31.254.86:27017/PosDEMODB",
+    "jwtSecret": "ayassecret",
+    "jwtSecretBackOff": "cayon@cloud",
+    "CLIENTS_FILES_PATH": "/home/support/workspace/DocumentsPOSV2",
+    "RESELLERS_FILES_PATH": "/home/support/workspace/DocumentsPOSV2"
+}
